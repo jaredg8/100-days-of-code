@@ -21,9 +21,9 @@
 ### Day 2: December 31, 2017 Monday
 ##### (Tokyo - Morning did flexbox activities; }
 
-**Today's Progress**: flexbox-froggy is awesome.  I have a much better understanding now. I worked on my profile page and refactored the code to make it more clean.  
+**Today's Progress**: flexbox-froggy is awesome.  I have a much better understanding now. I worked on my profile page and refactored the code to make it more clean.  Spent time in Renoir coffee shop updating flexbox to refactor a lot of the flexbox related css and media queries.  Clearly media queries are the key for responsiveness.  I need to figure out how to best do media queries for mobile.  
 
-**Thoughts**: Need to do same version of flex froggy for CSS grid
+**Thoughts**: Need to do same version of flex froggy for CSS grid.  Need to improve on media queries.  Need to keep code more organized and probably split css files into multiple and import into a base file.  Feel simultaneously happy with progress and frustrated on how much farther I still have to go.
 
 **Link(s) to work**
 http://flexboxfroggy.com/
