@@ -19,9 +19,12 @@
 **Link(s) to work**: 
 
 ### Day 2: December 31, 2017 Monday
+##### (Tokyo - Morning did flexbox activities; }
 
-**Today's Progress**: 
+**Today's Progress**: flexbox-froggy is awesome.  I have a much better understanding now. I worked on my profile page and refactored the code to make it more clean.  
 
-**Thoughts**: 
+**Thoughts**: Need to do same version of flex froggy for CSS grid
 
 **Link(s) to work**
+http://flexboxfroggy.com/
+http://cssgridgarden.com/
