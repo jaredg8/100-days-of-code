@@ -31,9 +31,9 @@ http://flexboxfroggy.com/
 ### Day 3: January 1, 2018 Monday
 ##### (Tokyo - Morning did CSS Grid activities; }
 
-**Today's Progress**: Did CSS Garden
+**Today's Progress**: Did CSS Garden and worked on homepage.
 
-**Thoughts**: I'm actually thinking that I might want to use CSS grid for whole layout besides for banner and footer section of my homepage.  I might try a 6x6 grid and leave columns and rows 1 & 6 as margins and then have 4 columns and rows for content.  I might give it a try on Sage Digital's homepage to see how it works.
+**Thoughts**: I'm actually thinking that I might want to use CSS grid for whole layout besides for banner and footer section of my homepage.  I might try a 6x6 grid and leave columns and rows 1 & 6 as margins and then have 4 columns and rows for content.  I might give it a try on Sage Digital's homepage to see how it works.  Also realizing I should use percentages and em more frequently to improve responsiveness.
 
 **Link(s) to work**
 http://cssgridgarden.com/
