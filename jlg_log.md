@@ -18,8 +18,8 @@
 
 **Link(s) to work**: 
 
-### Day 2: December 31, 2017 Monday
-##### (Tokyo - Morning did flexbox activities; }
+### Day 2: December 31, 2017 Sunday
+##### (Tokyo - Morning did flexbox activities; evening worked on homepage }
 
 **Today's Progress**: flexbox-froggy is awesome.  I have a much better understanding now. I worked on my profile page and refactored the code to make it more clean.  Spent time in Renoir coffee shop updating flexbox to refactor a lot of the flexbox related css and media queries.  Clearly media queries are the key for responsiveness.  I need to figure out how to best do media queries for mobile.  
 
@@ -27,4 +27,13 @@
 
 **Link(s) to work**
 http://flexboxfroggy.com/
+
+### Day 3: January 1, 2018 Monday
+##### (Tokyo - Morning did CSS Grid activities; }
+
+**Today's Progress**: Did CSS Garden
+
+**Thoughts**: I'm actually thinking that I might want to use CSS grid for whole layout besides for banner and footer section of my homepage.  I might try a 6x6 grid and leave columns and rows 1 & 6 as margins and then have 4 columns and rows for content.  I might give it a try on Sage Digital's homepage to see how it works.
+
+**Link(s) to work**
 http://cssgridgarden.com/
