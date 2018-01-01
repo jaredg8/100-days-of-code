@@ -1,5 +1,14 @@
 # 100 Days Of Code - Log
 
+## Projects
+
+* Personal homepage 
+* Sage Digital homepage
+* GuyerAyers website
+* Familia
+* Yakitty Yak
+* Blog on Medium and/or Wordpress
+
 ### Day 0: December 29, 2017
 ##### (Airport/Tokyo <1 hour)
 
