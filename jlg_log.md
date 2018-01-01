@@ -2,8 +2,8 @@
 
 ## Projects
 
-* Personal homepage 
-* Sage Digital homepage
+* Personal homepage http://www.jaredguyer.io
+* Sage Digital homepage http://www.sagedigital.media
 * GuyerAyers website
 * Familia
 * Yakitty Yak
