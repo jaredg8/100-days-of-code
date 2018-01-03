@@ -46,3 +46,13 @@ http://flexboxfroggy.com/
 
 **Link(s) to work**
 http://cssgridgarden.com/
+
+### Day 4 & 5: January 2 & 3, 2018 Tuesday & Wednesday
+##### (Tokyo - Morning did CSS Grid activities; }
+
+**Today's Progress**: Yesterday was mostly a design and HTML structuring day.  I put together the wireframes for the Sage Digital website and built out the html assuming there will be a 12 column CSS Grid layout.  Today I worked on my homepage and played with line height and aesthetic touches in CSS, and also used the Le Wagon HTML Head template to improve my site.  I also embedded google analytics.  My FB and twitter image cards aren't working so I'll have to fix tomorrow.
+
+**Thoughts**: Refactoring is gonna be a bitch...
+
+**Link(s) to work**
+http://www.jaredguyer.io
