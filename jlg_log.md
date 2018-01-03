@@ -28,7 +28,7 @@
 **Link(s) to work**: 
 
 ### Day 2: December 31, 2017 Sunday
-##### (Tokyo - Morning did flexbox activities; evening worked on homepage }
+##### (Tokyo - Morning did flexbox activities; evening worked on homepage)
 
 **Today's Progress**: flexbox-froggy is awesome.  I have a much better understanding now. I worked on my profile page and refactored the code to make it more clean.  Spent time in Renoir coffee shop updating flexbox to refactor a lot of the flexbox related css and media queries.  Clearly media queries are the key for responsiveness.  I need to figure out how to best do media queries for mobile.  
 
@@ -38,7 +38,7 @@
 http://flexboxfroggy.com/
 
 ### Day 3: January 1, 2018 Monday
-##### (Tokyo - Morning did CSS Grid activities; }
+##### (Tokyo - Morning did CSS Grid activities)
 
 **Today's Progress**: Did CSS Garden and worked on homepage.  I am now comfortable with the first version of it and have pushed it to production.  It will of course need more work.  Next I will focus on Sage Digital homepage.  Building first a very solid text based site and then adding better layouts.
 
@@ -48,7 +48,7 @@ http://flexboxfroggy.com/
 http://cssgridgarden.com/
 
 ### Day 4 & 5: January 2 & 3, 2018 Tuesday & Wednesday
-##### (Tokyo - Morning did CSS Grid activities; }
+##### (Fukuoka Japan)
 
 **Today's Progress**: Yesterday was mostly a design and HTML structuring day.  I put together the wireframes for the Sage Digital website and built out the html assuming there will be a 12 column CSS Grid layout.  Today I worked on my homepage and played with line height and aesthetic touches in CSS, and also used the Le Wagon HTML Head template to improve my site.  I also embedded google analytics.  My FB and twitter image cards aren't working so I'll have to fix tomorrow.
 
