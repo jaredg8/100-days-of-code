@@ -56,3 +56,12 @@ http://cssgridgarden.com/
 
 **Link(s) to work**
 http://www.jaredguyer.io
+
+### Day 6: January 4, 2018 Thursday
+##### (Fukuoka Japan)
+
+**Today's Progress**: Looked more into responsive design and updated my content on the page to remove placeholders and have inital baseline for content.  
+**Thoughts**: Read a good article about mobile-first responsive design http://bradfrost.com/blog/web/mobile-first-responsive-web-design/.  I think I will do this to improve responsiveness.  Its a nice framework that makes a lot of sense since mobile is so much more prevalent than anything else.
+
+**Link(s) to work**
+http://www.jaredguyer.io
