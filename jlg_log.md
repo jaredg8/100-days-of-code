@@ -65,3 +65,49 @@ http://www.jaredguyer.io
 
 **Link(s) to work**
 http://www.jaredguyer.io
+
+### Day 7: January 5, 2018 Friday
+##### (Fukuoka Japan)
+
+**Today's Progress**: Took the day off because I had Japanese class and a date.  
+**Thoughts**: I deserve it :) 
+
+**Link(s) to work**
+http://www.jaredguyer.io
+
+### Day 8: January 6, 2018 Saturday
+##### (Fukuoka Japan)
+
+**Today's Progress**: Built the structure and rails app and secured domain name for the Sage Digital website.  I tried making a responsive design but basically ended up with the problem I had on my site.  Because of this I've decided to simplify the grid when I worked on it.    
+**Thoughts**: I like how its looking, but I think there is a flaw in how I'm approaching the design.  I'm still doing it for desktop first and mobile second.  When I regroup on this I'm going to make it for mobile first and do media queries for when it gets larger rather than for when it gets smaller.  That was the point of the articles, but I need to be concious to actually do it this way.
+
+**Link(s) to work**
+
+### Day 9: January 7, 2018 Sunday
+##### (Fukuoka Japan)
+
+**Today's Progress**: Mostly just worked on Treehouse videos for Responsive design and a variety of CSS topics and Rails routing. Also read the Intercom Product Management book for a while which is great, and applicable to where I want to take my career.
+**Thoughts**: I've been using treehouse and like it a lot, today I watched a bunch of videos.  I tinkered with some of the CSS formatting aspects of my site but didn't do a bunch of coding specific stuff.  I think Treehouse counts a bit because there are coding excercises... ?
+
+**Link(s) to work**
+http://www.jaredguyer.io
+
+### Day 10: January 8, 2018 Monday
+##### (Fukuoka Japan)
+
+**Today's Progress**: Worked a lot on setting up the structure and getting assets together for Sage digital.  I looked at MDC grid framework and installed just incase I might want to look at that  
+**Thoughts**: Like so much of anything its really in how you approach a problem.  I think that the biggest improvement is knowing how to structure my thoughts in front end form.  I get a little frustrated with my progress in actual design, but in truth I'm definitely getting better. 
+
+**Link(s) to work**
+localhost:3000
+
+### Day 11: January 9, 2018 Tuesday
+##### (Fukuoka Japan)
+
+**Today's Progress**: Worked a lot on CSS grid and understanding how things are inherited and structured.  Finally starting to get it for responsive layouts phew! 
+**Thoughts**: I decided to revert to a simpler column structure to see how I could start out with a mobile first responsive design.  To do this I just made 3 columns and this has made it a lot easier so far.  Still not understanding why my image works if I put it in wrapper without a section id, but doesn't work when I do have a section id.  will investigate tomorrow.
+
+**Link(s) to work**
+https://codepen.io/jaredg8/pen/LeQbEr?editors=1100
+
+
