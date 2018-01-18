@@ -110,4 +110,17 @@ localhost:3000
 **Link(s) to work**
 https://codepen.io/jaredg8/pen/LeQbEr?editors=1100
 
+### Day 12 21: January 10 - 18, 2018 
+##### (Fukuoka Japan)
+
+**Recent Progress**: Its been about 9 days since I checked in but I've kept up with the coding everyday! I've worked on the Sage Digital site, jaredguyer.io, as well as on some JS 30 projects.  I've been focusing on CSS/Ruby/Javascript in my learnings.  Everyday I've watched about 10-20 steps on Treehouse and have enjoyed that.    
+**Thoughts**: Finally feeling pretty good about CSS Grid and Flexbox.  Excited to get started on Familia Project.  We've put together user stories and low fidelity mock-ups.  I will continue with JS 30 challenges 
+
+**Link(s) to work**
+Drum Machine: https://codepen.io/jaredg8/pen/QaxxGo
+Clock: https://codepen.io/jaredg8/pen/rpZedB
+Flex Panel Animations: https://codepen.io/jaredg8/pen/XVxjaZ
+CSS Grid experiment: https://codepen.io/jaredg8/pen/zpWMwm
+
+
 
